@@ -57,5 +57,4 @@ It combines **DC motors**, **FSR402 force sensors**, an **HC-SR04 ultrasonic sen
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/Arduino-Safety-Robot.git
-   cd Arduino-Safety-Robot
+   https://github.com/Eitan1231/Arduino-Safety-Robot
